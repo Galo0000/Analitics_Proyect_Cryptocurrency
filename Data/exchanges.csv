@@ -1,251 +1,251 @@
 id,name,year_established,country,trust_score,trust_score_rank,trade_volume_24h_btc,trade_volume_24h_btc_normalized
-binance,Binance,2017,Cayman Islands,10,1,200152.15,131061.93
-gdax,Coinbase Exchange,2012,United States,10,2,29557.81,29557.81
-bybit_spot,Bybit,2018,British Virgin Islands,10,3,28586.52,28586.52
-huobi,Huobi,2013,Seychelles,10,4,38743.01,19735.35
-kraken,Kraken,2011,United States,10,5,18165.4,13077.55
-kucoin,KuCoin,2014,Seychelles,10,6,9586.3,9586.3
-bitfinex,Bitfinex,2012,British Virgin Islands,10,7,2612.25,2184.12
-binance_us,Binance US,2019,United States,10,8,281.7,281.7
-okex,OKX,2017,Seychelles,9,9,22893.53,22893.53
-gate,Gate.io,,Cayman Islands,9,10,16145.47,16145.47
-bitget,Bitget,2018,Seychelles,9,11,15264.42,15264.42
-crypto_com,Crypto.com Exchange,2019,Malta,9,12,6444.87,6444.87
-bitstamp,Bitstamp,2013,Luxembourg,9,13,5076.69,2533.66
-gemini,Gemini,2014,United States,9,14,589.45,589.45
-digifinex,DigiFinex,2018,Seychelles,8,15,27688.32,27688.32
-coinw,CoinW,2017,United Arab Emirates,8,16,23358.47,23358.47
-mxc,MEXC,2018,Seychelles,8,17,19246.25,19246.25
-whitebit,WhiteBIT,2018,Lithuania,8,18,14892.2,14892.2
-btse,BTSE,2018,British Virgin Islands,8,19,11851.68,7673.96
-deepcoin,Deepcoin,2018,Seychelles,8,20,7211.54,7211.54
-bingx,BingX,2018,British Virgin Islands,8,21,6998.73,6998.73
-exmo,EXMO,2013,United Kingdom,8,22,1986.76,1986.76
-dextrade,Dex-Trade,2019,Belize,8,23,1870.08,1870.08
-phemex,Phemex,2019,Singapore,8,24,1833.95,1833.95
-bitso,Bitso,2014,Gibraltar,8,25,1068.04,1068.04
-wootrade,WOO X,2019,Seychelles,8,26,1206.77,1039.65
-pointpay,PointPay,2018,Saint Vincent and the Grenadines,8,27,909.64,909.64
-bitkub,Bitkub,2018,Thailand,8,28,595.72,595.72
-bitbank,Bitbank,2016,Japan,8,29,547.34,547.34
-coinex,CoinEx,2017,Samoa,8,30,500.33,500.33
-bullish_com,Bullish,2021,Gibraltar,8,31,15184.0,380.73
-max_maicoin,Max Maicoin,,Taiwan,8,32,266.65,266.65
-indodax,Indodax,2014,Indonesia,8,33,183.52,183.52
-fastex,Fastex,,Lithuania,8,34,91.13,91.13
-bittrex,Bittrex Global,2014,Liechtenstein,8,35,76.13,76.13
-blockchain_com,Blockchain.com,2012,United Kingdom,8,36,72.59,72.59
-coinspro,Coins.ph,,Philippines,8,37,38.72,38.72
-bitmex_spot,BitMEX,,Seychelles,8,38,5.02,5.02
-nice_hash,NiceHash,,Slovenia,8,39,3.06,3.06
-bitmart,BitMart,2017,Cayman Islands,7,40,31570.09,24968.58
-lbank,LBank,2015,British Virgin Islands,7,41,20631.49,20631.49
-xt,XT.COM,2018,Seychelles,7,42,19946.48,19946.48
-upbit,Upbit,2017,South Korea,7,43,28599.75,18278.1
-bitrue,Bitrue,2018,Singapore,7,44,29049.39,13137.78
-p2pb2b,P2B,2018,Lithuania,7,45,19620.74,12750.61
-latoken,LATOKEN,2017,Cayman Islands,7,46,11396.84,11396.84
-coinsbit,Coinsbit,,Estonia,7,47,9984.2,9984.2
-biconomy,Biconomy,2019,Canada,7,48,15838.76,8279.04
-tidex,Tidex,2017,Lithuania,7,49,6942.12,6942.12
-bithumb,Bithumb,2014,South Korea,7,50,6313.78,6313.78
-azbit,Azbit,,Seychelles,7,51,4692.71,4158.62
-difx,DIFX,2021,Cayman Islands,6,52,5840.83,4075.99
-bigone,BigONE,2017,Netherlands,7,53,3188.12,3188.12
-coinstore,Coinstore,2020,Singapore,7,54,5149.18,3035.35
-btcturk,BtcTurk | Kripto,2013,Turkey,7,55,2808.61,2654.76
-paribu,Paribu,,Turkey,7,56,2446.61,1949.1
-qmall,QMall,,Lithuania,8,57,1221.45,1221.45
-bitflyer,bitFlyer,2014,Japan,7,58,1216.18,1216.18
-bitexen,Bitexen,2018,Turkey,7,59,815.82,534.49
-c_patex,C-Patex,,Argentina,7,60,482.0,482.0
-bitopro,BitoPro,2018,Taiwan,7,61,666.26,326.93
-independent_reserve,Independent Reserve,2013,Australia,7,62,241.78,241.78
-valr,VALR,2018,South Africa,8,63,357.04,222.47
-luno,Luno,2013,Singapore,7,64,194.28,194.28
-cex,CEX.IO,2013,United Kingdom,7,65,112.7,112.7
-itbit,itBit,2013,United States,7,66,73.4,73.4
-emirex,Emirex,2014,United Arab Emirates,6,67,26.54,26.54
-delta_spot,Delta Exchange,,Jamaica,7,68,15.12,15.12
-coin_metro,Coinmetro,2018,Estonia,7,69,13.09,13.09
-kuna,Kuna Exchange,,United Kingdom,7,70,12.17,12.17
-okcoin,Okcoin,2013,United States,5,71,4.44,4.44
-bitforex,Bitforex,2018,Seychelles,6,72,93410.23,14183.05
-cointr,CoinTR Pro,2022,Lithuania,6,73,10129.64,10129.64
-toobit,Toobit,2022,Cayman Islands,7,74,15361.6,6988.92
-bitmax,AscendEX (BitMax),2018,Singapore,6,75,7313.63,5020.29
-uniswap_v2,Uniswap V2 (Ethereum),2018,,6,76,4903.66,4903.66
-bitmake,BitMake,2020,United Arab Emirates,6,77,4421.04,4421.04
-uniswap_v3_arbitrum,Uniswap V3 (Arbitrum One),,,6,78,3590.48,3590.48
-pancakeswap-v3-bsc,Pancakeswap V3 (BSC),,,6,79,2244.98,2244.98
-bitci,Bitci TR,2018,Turkey,6,80,1954.69,1954.69
-bitvavo,Bitvavo,2018,Netherlands,6,81,1941.6,1941.6
-uniswap_v3_polygon_pos,Uniswap V3 (Polygon),2021,,6,82,977.7,977.7
-maverick_protocol,Maverick Protocol,,,6,83,948.54,948.54
-cryptology,Cryptology,2018,Lithuania,6,84,909.84,909.84
-uniswap_v3_optimism,Uniswap V3 (Optimism),,,6,85,762.73,762.73
-coinone,Coinone,2016,South Korea,6,86,750.42,750.42
-pulsex,PulseX,,,6,87,572.06,572.06
-pancakeswap_new,PancakeSwap (v2),2020,,6,88,568.01,568.01
-syncswap,SyncSwap,,,6,89,506.69,506.69
-orca,Orca,,,6,90,376.81,376.81
-traderjoe-v2-1-avalanche,TraderJoe V2.1 (Avalanche),,,6,91,345.91,345.91
-kanga,Kanga,2018,Belize,7,92,344.82,344.82
-bitazza,Bitazza,2021,Thailand,6,93,254.93,254.93
-velodrome-finance-v2,Velodrome Finance v2,,,6,94,236.88,236.88
-gmo_japan,GMO Japan,,Japan,6,95,208.18,208.18
-osmosis,Osmosis,2021,,6,96,200.68,200.68
-finexbox,FinexBox,2018,Hong Kong,6,97,190.13,190.13
-pancakeswap-v3-zksync,Pancakeswap V3 (zkSync),2020,Singapore,6,98,187.56,187.56
-deribit_spot,Deribit Spot,2016,Panama,6,99,185.64,185.64
-sushiswap,Sushiswap,2020,,6,100,169.05,169.05
-traderjoe-v2-1-arbitrum,TraderJoe V2.1 (Arbitrum),,,6,101,147.25,147.25
-bit_com,BIT,2020,Seychelles,6,102,3256.92,126.51
-nominex,Nominex,2019,Seychelles,6,103,306.25,126.45
-huobi_japan,BitTrade,2016,Japan,6,104,110.54,110.54
-canto_dex,Canto Dex,,,6,105,80.95,80.95
-korbit,Korbit,2013,South Korea,6,106,80.19,80.19
-mute,Mute,,,6,107,67.06,67.06
-spacefi_zksync,SpaceFi (ZkSync),,,6,108,61.27,61.27
-katana,Katana,2021,,6,109,59.68,59.68
-btcmarkets,BTCMarkets,,Australia,6,110,59.35,59.35
-biswap,Biswap,,,6,111,56.51,56.51
-pulsex-v2,PulseX V2,,,6,112,52.95,52.95
-coinjar,CoinJar Exchange,2013,United Kingdom,6,113,47.29,47.29
-retro,Retro,2022,United Arab Emirates,6,114,39.35,39.35
-wazirx,WazirX,2018,India,5,115,31.53,31.53
-bitlo,Bitlo,2018,Turkey,6,116,29.26,29.26
-coindcx,CoinDCX,2018,Singapore,6,117,22.13,22.13
-zaif,Zaif,2015,Japan,6,118,11.01,11.01
-coinlist,Coinlist,2020,United States,6,119,10.01,10.01
-orderly_network,Orderly Network,2022,Bahamas,6,120,4.31,4.31
-hashkey_exchange,Hashkey Exchange,2018,Hong Kong,6,121,4.2,4.2
-icrypex,Icrypex,2018,Turkey,6,122,1855.26,0.0
-fairdesk,Fairdesk,,Singapore,6,123,419.68,0.0
-smardex-arbitrum,SmarDex (Arbitrum),2023,Switzerland,6,124,5.27,0.0
-smardex-polygon,SmarDex (Polygon),2023,Switzerland,6,125,2.23,0.0
-uniswap_v3,Uniswap V3 (Ethereum),2018,,5,126,14626.45,8870.39
-pionex,Pionex,2019,British Virgin Islands,5,127,26804.65,8641.17
-fameex,FameEX,2020,Australia,5,128,2266.03,2266.03
-probit,ProBit Global,2017,Seychelles,5,129,2042.29,2042.29
-poloniex,Poloniex,2014,Seychelles,5,130,27905.86,2002.11
-curve_ethereum,Curve (Ethereum),,,5,131,2788.79,1255.57
-localtrade,LocalTrade,2017,Lithuania,5,132,1518.45,1228.23
-bitcoin_com,FMFW.io,2019,Bahamas,5,133,7830.59,956.0
-quickswap_v3,Quickswap (v3),2020,,5,134,627.15,627.15
-apex_pro,ApeX Pro,2022,Singapore,5,135,2527.34,605.36
-pancakeswap-v3-ethereum,Pancakeswap V3 (Ethereum),,,5,136,471.46,471.46
-dodo_bsc,DODO (BSC),2021,,6,137,330.67,330.67
-toko_crypto,TokoCrypto,2017,Indonesia,5,138,333.4,333.4
-balancer,Balancer V2,2020,,5,139,337.64,312.69
-currency,Currency.com,2019,Saint Vincent and the Grenadines,5,140,823.14,312.36
-bydfi,BYDFi,2020,,5,141,12163.2,275.64
-kyberswap_elastic_arbitrum,Kyberswap Elastic (Arbitrum),,,5,142,236.04,236.04
-catex,Catex,2018,China,5,143,1623.82,232.26
-thena-fusion,THENA FUSION,,,5,144,202.26,202.26
-uniswap-bsc,Uniswap V3 (BSC),,,5,145,191.46,191.46
-tokpie,Tokpie,2018,Hong Kong,5,146,196.84,179.03
-shibaswap,Shibaswap,2021,,5,147,169.72,169.72
-velocore,Velocore,,,5,148,161.61,161.61
-dodo_arbitrum,DODO (Arbitrum),,,5,149,551.44,152.99
-uniswap-v3-base,Uniswap V3 (Base),,,5,150,143.21,143.21
-tokenize,Tokenize,2018,Singapore,5,151,2057.73,112.3
-gopax,GoPax,2016,South Korea,5,152,97.99,97.99
-kyberswap_elastic_polygon,Kyberswap Elastic (Polygon),,,5,153,90.38,90.38
-kyberswap_elastic_optimism,Kyberswap Elastic (Optimism),,,5,154,89.35,89.35
-bitbns,BitBNS,2017,Estonia,5,155,87.88,87.88
-camelot,Camelot,,,5,156,67.59,67.59
-sushiswap-v3-base,SushiSwap V3 (Base),2020,Japan,6,157,63.47,63.47
-quickswap,Quickswap,2020,,5,158,58.22,58.22
-sushiswap_arbitrum,Sushiswap (Arbitrum One),,,5,159,49.82,49.82
-fraxswap_ethereum,Fraxswap (Ethereum),,,5,160,39.04,39.04
-novadax,NovaDAX,2018,Brazil,5,161,36.62,36.62
-dodo_polygon,DODO (Polygon),,,5,162,36.62,36.62
-uniswap-v3-avalanche,Uniswap V3 (Avalanche),,,5,163,35.57,35.57
-syncswap-linea,SyncSwap (Linea),,,5,164,33.03,33.03
-nomiswap_stable,Nomiswap (Stable),,,5,165,33.08,33.08
-pancakeswap_stableswap,Pancakeswap (Stableswap),,,5,166,31.29,31.29
-sushiswap-v3-arbitrum,Sushiswap V3 (Arbitrum),,,5,167,29.63,29.63
-foxbit,Foxbit,2014,Brazil,5,168,27.77,27.77
-traderjoe,Trader Joe,,,5,169,24.3,24.3
+binance,Binance,2017,Cayman Islands,10,1,200455.72,131112.82
+gdax,Coinbase Exchange,2012,United States,10,2,30308.93,30308.93
+bybit_spot,Bybit,2018,British Virgin Islands,10,3,28728.84,28728.84
+huobi,Huobi,2013,Seychelles,10,4,38706.51,19743.02
+kraken,Kraken,2011,United States,10,5,18114.27,13082.62
+kucoin,KuCoin,2014,Seychelles,10,6,9591.9,9591.9
+bitstamp,Bitstamp,2013,Luxembourg,9,7,5065.32,2534.65
+bitfinex,Bitfinex,2012,British Virgin Islands,10,8,2547.89,2184.97
+binance_us,Binance US,2019,United States,10,9,286.86,286.86
+okex,OKX,2017,Seychelles,9,10,22980.95,22980.95
+gate,Gate.io,,Cayman Islands,9,11,16232.42,16232.42
+bitget,Bitget,2018,Seychelles,9,12,15293.88,15293.88
+crypto_com,Crypto.com Exchange,2019,Malta,9,13,6465.39,6465.39
+gemini,Gemini,2014,United States,9,14,597.44,597.44
+digifinex,DigiFinex,2018,Seychelles,8,15,27726.79,27726.79
+coinw,CoinW,2017,United Arab Emirates,8,16,23370.12,23370.12
+mxc,MEXC,2018,Seychelles,8,17,19357.54,19357.54
+whitebit,WhiteBIT,2018,Lithuania,8,18,15004.56,15004.56
+btse,BTSE,2018,British Virgin Islands,8,19,12307.76,7660.64
+deepcoin,Deepcoin,2018,Seychelles,8,20,7437.93,7437.93
+bingx,BingX,2018,British Virgin Islands,8,21,6985.48,6985.48
+exmo,EXMO,2013,United Kingdom,8,22,1986.27,1986.27
+dextrade,Dex-Trade,2019,Belize,8,23,1867.11,1867.11
+phemex,Phemex,2019,Singapore,8,24,1827.74,1827.74
+qmall,QMall,,Lithuania,7,25,1247.66,1247.66
+bitso,Bitso,2014,Gibraltar,8,26,1076.93,1076.93
+wootrade,WOO X,2019,Seychelles,8,27,1210.98,1037.84
+pointpay,PointPay,2018,Saint Vincent and the Grenadines,8,28,935.16,935.16
+bitkub,Bitkub,2018,Thailand,8,29,597.19,597.19
+bitbank,Bitbank,2016,Japan,8,30,547.65,547.65
+coinex,CoinEx,2017,Samoa,8,31,498.36,498.36
+bullish_com,Bullish,2021,Gibraltar,8,32,15259.62,380.07
+bitopro,BitoPro,2018,Taiwan,8,33,668.31,326.36
+max_maicoin,Max Maicoin,,Taiwan,8,34,259.68,259.68
+valr,VALR,2018,South Africa,8,35,371.08,222.09
+indodax,Indodax,2014,Indonesia,8,36,183.85,183.85
+fastex,Fastex,,Lithuania,8,37,92.84,92.84
+bittrex,Bittrex Global,2014,Liechtenstein,8,38,76.19,76.19
+blockchain_com,Blockchain.com,2012,United Kingdom,8,39,38.15,38.15
+coinspro,Coins.ph,,Philippines,8,40,38.69,38.69
+bitmex_spot,BitMEX,,Seychelles,8,41,5.02,5.02
+nice_hash,NiceHash,,Slovenia,8,42,3.16,3.16
+bitmart,BitMart,2017,Cayman Islands,7,43,31155.26,24978.28
+lbank,LBank,2015,British Virgin Islands,7,44,20554.98,20554.98
+xt,XT.COM,2018,Seychelles,7,45,19935.78,19935.78
+upbit,Upbit,2017,South Korea,7,46,28244.95,18285.2
+bitrue,Bitrue,2018,Singapore,7,47,28972.24,13142.88
+p2pb2b,P2B,2018,Lithuania,7,48,19594.77,12755.56
+latoken,LATOKEN,2017,Cayman Islands,7,49,11510.93,11510.93
+coinsbit,Coinsbit,,Estonia,7,50,10230.97,10230.97
+biconomy,Biconomy,2019,Canada,7,51,15839.73,8264.66
+tidex,Tidex,2017,Lithuania,7,52,7074.58,7074.58
+toobit,Toobit,2022,Cayman Islands,7,53,15330.03,6976.79
+bithumb,Bithumb,2014,South Korea,7,54,6383.45,6383.45
+azbit,Azbit,,Seychelles,7,55,4782.68,4151.4
+bigone,BigONE,2017,Netherlands,7,56,3184.09,3184.09
+coinstore,Coinstore,2020,Singapore,7,57,5147.94,3030.08
+btcturk,BtcTurk | Kripto,2013,Turkey,7,58,2777.79,2655.79
+paribu,Paribu,,Turkey,7,59,2388.28,1949.86
+bitflyer,bitFlyer,2014,Japan,7,60,1234.92,1234.92
+bitexen,Bitexen,2018,Turkey,7,61,817.43,533.56
+c_patex,C-Patex,,Argentina,7,62,495.76,495.76
+kanga,Kanga,2018,Belize,7,63,341.34,341.34
+independent_reserve,Independent Reserve,2013,Australia,7,64,242.74,242.74
+luno,Luno,2013,Singapore,7,65,192.08,192.08
+cex,CEX.IO,2013,United Kingdom,7,66,111.05,111.05
+itbit,itBit,2013,United States,7,67,73.17,73.17
+delta_spot,Delta Exchange,,Jamaica,7,68,15.31,15.31
+coin_metro,Coinmetro,2018,Estonia,7,69,12.81,12.81
+kuna,Kuna Exchange,,United Kingdom,7,70,12.1,12.1
+bitforex,Bitforex,2018,Seychelles,6,71,93574.77,14188.56
+cointr,CoinTR Pro,2022,Lithuania,6,72,10121.78,10121.78
+bitmax,AscendEX (BitMax),2018,Singapore,6,73,7294.87,5022.24
+uniswap_v2,Uniswap V2 (Ethereum),2018,,6,74,4905.07,4905.07
+bitmake,BitMake,2020,United Arab Emirates,6,75,4426.85,4426.85
+difx,DIFX,2021,Cayman Islands,6,76,5935.36,4068.92
+uniswap_v3_arbitrum,Uniswap V3 (Arbitrum One),,,6,77,3606.16,3606.16
+pancakeswap-v3-bsc,Pancakeswap V3 (BSC),,,6,78,2219.16,2219.16
+bitci,Bitci TR,2018,Turkey,6,79,1958.07,1958.07
+bitvavo,Bitvavo,2018,Netherlands,6,80,1921.53,1921.53
+uniswap_v3_polygon_pos,Uniswap V3 (Polygon),2021,,6,81,981.05,981.05
+maverick_protocol,Maverick Protocol,,,6,82,958.23,958.23
+cryptology,Cryptology,2018,Lithuania,6,83,905.51,905.51
+uniswap_v3_optimism,Uniswap V3 (Optimism),,,6,84,760.03,760.03
+coinone,Coinone,2016,South Korea,6,85,763.69,763.69
+quickswap_v3,Quickswap (v3),2020,,6,86,630.2,630.2
+pancakeswap_new,PancakeSwap (v2),2020,,6,87,571.72,571.72
+pulsex,PulseX,,,6,88,562.06,562.06
+syncswap,SyncSwap,,,6,89,501.62,501.62
+orca,Orca,,,6,90,375.45,375.45
+traderjoe-v2-1-avalanche,TraderJoe V2.1 (Avalanche),,,6,91,355.46,355.46
+dodo_bsc,DODO (BSC),2021,,6,92,330.86,330.86
+bitazza,Bitazza,2021,Thailand,6,93,254.71,254.71
+velodrome-finance-v2,Velodrome Finance v2,,,6,94,221.68,221.68
+gmo_japan,GMO Japan,,Japan,6,95,207.58,207.58
+deribit_spot,Deribit Spot,2016,Panama,6,96,202.98,202.98
+osmosis,Osmosis,2021,,6,97,203.12,203.12
+pancakeswap-v3-zksync,Pancakeswap V3 (zkSync),2020,Singapore,6,98,189.99,189.99
+finexbox,FinexBox,2018,Hong Kong,6,99,189.94,189.94
+sushiswap,Sushiswap,2020,,6,100,167.55,167.55
+traderjoe-v2-1-arbitrum,TraderJoe V2.1 (Arbitrum),,,6,101,150.14,150.14
+bit_com,BIT,2020,Seychelles,6,102,3345.49,126.29
+nominex,Nominex,2019,Seychelles,6,103,310.98,126.23
+huobi_japan,BitTrade,2016,Japan,6,104,110.4,110.4
+canto_dex,Canto Dex,,,6,105,81.51,81.51
+korbit,Korbit,2013,South Korea,6,106,81.34,81.34
+mute,Mute,,,6,107,66.34,66.34
+sushiswap-v3-base,SushiSwap V3 (Base),2020,Japan,6,108,63.9,63.9
+spacefi_zksync,SpaceFi (ZkSync),,,6,109,60.54,60.54
+btcmarkets,BTCMarkets,,Australia,6,110,58.86,58.86
+katana,Katana,2021,,6,111,58.78,58.78
+biswap,Biswap,,,6,112,55.81,55.81
+pulsex-v2,PulseX V2,,,6,113,53.66,53.66
+coinjar,CoinJar Exchange,2013,United Kingdom,6,114,44.96,44.96
+retro,Retro,2022,United Arab Emirates,6,115,39.14,39.14
+bitlo,Bitlo,2018,Turkey,6,116,29.0,29.0
+emirex,Emirex,2014,United Arab Emirates,6,117,26.52,26.52
+coindcx,CoinDCX,2018,Singapore,6,118,22.29,22.29
+coinzoom,Coinzoom,2020,United States,6,119,17.22,17.22
+zaif,Zaif,2015,Japan,6,120,10.76,10.76
+orderly_network,Orderly Network,2022,Bahamas,6,121,4.31,4.31
+hashkey_exchange,Hashkey Exchange,2018,Hong Kong,6,122,4.2,4.2
+fairdesk,Fairdesk,,Singapore,6,123,423.0,0.0
+icrypex,Icrypex,2018,Turkey,6,124,1879.98,0.0
+smardex-arbitrum,SmarDex (Arbitrum),2023,Switzerland,6,125,5.16,0.0
+smardex-polygon,SmarDex (Polygon),2023,Switzerland,6,126,2.23,0.0
+smardex-bsc,SmarDex (BSC),2023,Switzerland,6,127,1.22,0.0
+uniswap_v3,Uniswap V3 (Ethereum),2018,,5,128,14718.71,8854.99
+pionex,Pionex,2019,British Virgin Islands,5,129,26709.27,8626.17
+fameex,FameEX,2020,Australia,5,130,2273.07,2273.07
+probit,ProBit Global,2017,Seychelles,5,131,2039.35,2039.35
+poloniex,Poloniex,2014,Seychelles,5,132,27905.73,2002.88
+curve_ethereum,Curve (Ethereum),,,5,133,2903.81,1253.4
+localtrade,LocalTrade,2017,Lithuania,5,134,1524.54,1226.1
+bitcoin_com,FMFW.io,2019,Bahamas,5,135,7780.9,954.34
+apex_pro,ApeX Pro,2022,Singapore,5,136,2535.51,604.3
+pancakeswap-v3-ethereum,Pancakeswap V3 (Ethereum),,,5,137,473.05,473.05
+toko_crypto,TokoCrypto,2017,Indonesia,5,138,335.33,335.33
+balancer,Balancer V2,2020,,5,139,333.27,312.15
+currency,Currency.com,2019,Saint Vincent and the Grenadines,5,140,816.45,311.82
+bydfi,BYDFi,2020,,5,141,12213.39,275.16
+kyberswap_elastic_arbitrum,Kyberswap Elastic (Arbitrum),,,5,142,246.52,246.52
+dodo,DODO (Ethereum),2020,,5,143,1098.86,225.71
+thena-fusion,THENA FUSION,,,5,144,199.86,199.86
+uniswap-bsc,Uniswap V3 (BSC),,,5,145,187.72,187.72
+tokpie,Tokpie,2018,Hong Kong,5,146,196.2,178.72
+shibaswap,Shibaswap,2021,,5,147,163.47,163.47
+velocore,Velocore,,,5,148,162.15,162.15
+dodo_arbitrum,DODO (Arbitrum),,,5,149,557.29,152.72
+uniswap-v3-base,Uniswap V3 (Base),,,5,150,143.75,143.75
+tokenize,Tokenize,2018,Singapore,5,151,2056.65,112.11
+gopax,GoPax,2016,South Korea,5,152,97.33,97.33
+kyberswap_elastic_polygon,Kyberswap Elastic (Polygon),,,5,153,90.44,90.44
+kyberswap_elastic_optimism,Kyberswap Elastic (Optimism),,,5,154,89.95,89.95
+bitbns,BitBNS,2017,Estonia,5,155,89.93,89.93
+camelot,Camelot,,,5,156,66.96,66.96
+quickswap,Quickswap,2020,,5,157,57.45,57.45
+sushiswap_arbitrum,Sushiswap (Arbitrum One),,,5,158,50.09,50.09
+fraxswap_ethereum,Fraxswap (Ethereum),,,5,159,38.85,38.85
+novadax,NovaDAX,2018,Brazil,5,160,38.83,38.83
+dodo_polygon,DODO (Polygon),,,5,161,36.52,36.52
+uniswap-v3-avalanche,Uniswap V3 (Avalanche),,,5,162,35.6,35.6
+syncswap-linea,SyncSwap (Linea),,,5,163,33.19,33.19
+nomiswap_stable,Nomiswap (Stable),,,5,164,37.65,37.65
+pancakeswap_stableswap,Pancakeswap (Stableswap),,,5,165,31.64,31.64
+wazirx,WazirX,2018,India,5,166,31.54,31.54
+sushiswap-v3-arbitrum,Sushiswap V3 (Arbitrum),,,5,167,29.62,29.62
+foxbit,Foxbit,2014,Brazil,5,168,28.76,28.76
+traderjoe,Trader Joe,,,5,169,23.95,23.95
 kumex,KuCoin Futures,2019,,,,2594.92,0.0
-klayswap,KLAYSwap,,,5,170,23.55,23.55
-quickswap-polygon-zkevm,Quickswap (Polygon zkEVM),,,5,171,20.83,20.83
-phux,Phux,,,5,172,20.43,20.43
-stormgain,Stormgain,,Saint Vincent and the Grenadines,5,173,20.54,20.54
-vvs,VVS Finance,2021,,5,174,19.14,19.14
-kickex,KickEX,2020,Estonia,5,175,18.87,18.87
-thena,THENA,,,5,176,18.34,18.34
-coinzoom,Coinzoom,2020,United States,5,177,17.23,17.23
-pancakeswap-v3-polygon-zkevm,Pancakeswap V3 (Polygon zkEVM),,,5,178,16.89,16.89
-stellaswap-v3,Stellaswap (V3),,,5,179,16.57,16.57
-fusionx-v3,FusionX V3,,,5,180,16.43,16.43
-sushiswap_polygon_pos,Sushiswap (Polygon POS),2021,,5,181,15.4,15.4
-klever_exchange,Bitcoin.me,,,5,182,13.75,13.75
-pangolin,Pangolin,2021,,5,183,13.3,13.3
-liquidswap,Liquidswap,,,5,184,12.92,12.92
-pancakeswap_aptos,Pancakeswap (Aptos),,,5,185,11.99,11.99
-bisq,Bisq,,,5,186,7.84,7.84
-traderjoe-v2-avalanche,Trader Joe v2,,,5,187,7.44,7.44
-velodrome,Velodrome Finance,2022,,5,188,7.33,7.33
-apeswap_bsc,ApeSwap,2021,,5,189,6.64,6.64
-sushiswap-v3-polygon,Sushiswap V3 (Polygon),,,5,190,6.24,6.24
-equalizer,Equalizer,,,5,191,6.33,6.33
-spartadex,SpartaDEX,2023,Estonia,5,192,6.24,6.24
-horizondex,HorizonDEX,,,5,193,5.9,5.9
-spookyswap,SpookySwap,,,5,194,5.9,5.9
-sushiswap_arbitrum_nova,Sushiswap (Arbitrum Nova),2022,,5,195,5.79,5.79
-wemix_fi,WEMIX.Fi,,,5,196,5.18,5.18
-kaidex,Kaidex,2021,Vietnam,5,197,4.95,4.95
+klayswap,KLAYSwap,,,5,170,23.18,23.18
+stormgain,Stormgain,,Saint Vincent and the Grenadines,5,171,21.25,21.25
+quickswap-polygon-zkevm,Quickswap (Polygon zkEVM),,,5,172,20.94,20.94
+phux,Phux,,,5,173,20.1,20.1
+vvs,VVS Finance,2021,,5,174,19.42,19.42
+kickex,KickEX,2020,Estonia,5,175,19.13,19.13
+thena,THENA,,,5,176,18.29,18.29
+pancakeswap-v3-polygon-zkevm,Pancakeswap V3 (Polygon zkEVM),,,5,177,17.06,17.06
+fusionx-v3,FusionX V3,,,5,178,16.64,16.64
+stellaswap-v3,Stellaswap (V3),,,5,179,16.06,16.06
+sushiswap_polygon_pos,Sushiswap (Polygon POS),2021,,5,180,15.49,15.49
+cetus,Cetus,,,5,181,14.2,14.2
+klever_exchange,Bitcoin.me,,,5,182,13.95,13.95
+pangolin,Pangolin,2021,,5,183,13.42,13.42
+liquidswap,Liquidswap,,,5,184,13.03,13.03
+pancakeswap_aptos,Pancakeswap (Aptos),,,5,185,11.77,11.77
+coinlist,Coinlist,2020,United States,6,186,10.01,10.01
+traderjoe-v2-avalanche,Trader Joe v2,,,5,187,7.43,7.43
+bisq,Bisq,,,5,188,7.34,7.34
+velodrome,Velodrome Finance,2022,,5,189,7.19,7.19
+apeswap_bsc,ApeSwap,2021,,5,190,6.67,6.67
+equalizer,Equalizer,,,5,191,6.38,6.38
+sushiswap-v3-polygon,Sushiswap V3 (Polygon),,,5,192,6.22,6.22
+spartadex,SpartaDEX,2023,Estonia,5,193,6.1,6.1
+spookyswap,SpookySwap,,,5,194,5.95,5.95
+horizondex,HorizonDEX,,,5,195,5.78,5.78
+sushiswap_arbitrum_nova,Sushiswap (Arbitrum Nova),2022,,5,196,5.64,5.64
+wemix_fi,WEMIX.Fi,,,5,197,5.56,5.56
 solarbeam,Solarbeam,2021,Estonia,5,198,4.81,4.81
-chronos,Chronos,,,5,199,4.5,4.5
-netswap,Netswap,,,5,200,4.23,4.23
-trisolaris,Trisolaris,2021,,5,201,4.19,4.19
-uniswap_v3_celo,Uniswap V3 (Celo),,,5,202,3.9,3.9
-defi_kingdoms_crystalvale,Defi Kingdoms (Crystalvale),,,5,203,3.75,3.75
-sushiswap-v3-arbitrum-nova,Sushiswap V3 (Arbitrum Nova),,,5,204,3.44,3.44
-kibbleswap,KibbleSwap,,,5,205,3.36,3.36
-kyberswap_classic_bttc,Kyberswap Classic (Bittorent),2018,,5,206,3.35,3.35
-mm_finance,MMFinance (Cronos),2021,,5,207,3.13,3.13
-xswap,XSwap,,,5,208,2.88,2.88
-kyberswap_elastic_avalanche,Kyberswap Elastic (Avalanche),,,5,209,2.64,2.64
-sushiswap-v3-optimism,Sushiswap V3 (Optimism),,,5,210,2.62,2.62
-stellaswap,StellaSwap,,,5,211,2.37,2.37
-curve_fantom,Curve (Fantom),,,5,212,2.19,2.19
-pancakeswap-v2-zksync,PancakeSwap (zkSync),,,5,213,2.05,2.05
-nomiswap,Nomiswap,,,5,214,2.16,2.16
-pearl-exchange,PearlFi,,,5,215,1.93,1.93
-apeswap_polygon,ApeSwap (Polygon),2021,,5,216,1.91,1.91
-curve_moonbeam,Curve (Moonbeam),,,5,217,1.77,1.77
-bakeryswap,Bakeryswap,2020,,5,218,1.74,1.74
-sushiswap_bsc,Sushiswap (BSC),,,5,219,1.58,1.58
-ubeswap,Ubeswap,,,5,220,1.55,1.55
-curve_avalanche,Curve (Avalanche),,,5,221,1.51,1.51
-cherryswap,CherrySwap,,,5,222,1.29,1.29
-opnx_spot,OPNX,,Seychelles,5,223,1.23,1.23
-tealswap,Tealswap,,,5,224,1.05,1.05
-sushiswap_harmony,Sushiswap (Harmony),,,5,225,1.03,1.03
-lykke,Lykke,2015,United Kingdom,5,226,0.88,0.88
-equilibre,Équilibre,,,5,227,0.73,0.73
-arbswap_arbitrum_one,Arbswap,,,5,228,0.73,0.73
-pancakeswap_ethereum,PancakeSwap (Ethereum),2020,,5,229,0.72,0.72
-wagyuswap,WagyuSwap,,,5,230,0.7,0.7
-defi_kingdoms,Defi Kingdoms,,,5,231,0.67,0.67
-sushiswap-v3-bsc,Sushiswap V3 (BSC),,,5,232,0.67,0.67
-arbidex,Arbidex,,,5,233,0.65,0.65
-icecreamswap-core,IcecreamSwap (Core),,,5,234,0.61,0.61
-claimswap,Claimswap,,,5,235,0.58,0.58
-pegasys,Pegasys,,,5,236,0.56,0.56
-yokaiswap,Yokaiswap,,,5,237,0.54,0.54
-rcpswap,RCP Swap,2022,,5,238,0.49,0.49
-traderjoe-v2-1-bsc,TraderJoe V2.1 (BSC),,,5,239,0.43,0.43
-solidlydex,Solidly (Ethereum),,,5,240,0.37,0.37
-saros,Saros Finance,,,5,241,0.35,0.35
-verse,Verse,2022,,5,242,0.34,0.34
-polycat_finance,Polycat Finance,,,5,243,0.31,0.31
-spiritswap,SpiritSwap,2021,,5,244,0.26,0.26
-fusionx-v2,FusionX V2,,,5,245,0.27,0.27
-sushiswap_xdai,Sushiswap (xDai),,,5,246,0.27,0.27
-dystopia,Dystopia,,,5,247,0.26,0.26
-baryon_network,Baryon Network,,,5,248,0.18,0.18
-tranquil_finance,Tranquil Finance,,,5,249,0.15,0.15
+chronos,Chronos,,,5,199,4.46,4.46
+okcoin,Okcoin,2013,United States,5,200,4.45,4.45
+sologenic,Sologenic,,,5,201,4.27,4.27
+trisolaris,Trisolaris,2021,,5,202,4.2,4.2
+uniswap_v3_celo,Uniswap V3 (Celo),,,5,203,3.88,3.88
+defi_kingdoms_crystalvale,Defi Kingdoms (Crystalvale),,,5,204,3.61,3.61
+sushiswap-v3-arbitrum-nova,Sushiswap V3 (Arbitrum Nova),,,5,205,3.43,3.43
+kibbleswap,KibbleSwap,,,5,206,3.36,3.36
+kyberswap_classic_bttc,Kyberswap Classic (Bittorent),2018,,3,207,3.35,3.35
+netswap,Netswap,,,5,208,3.25,3.25
+mm_finance,MMFinance (Cronos),2021,,5,209,3.21,3.21
+xswap,XSwap,,,5,210,2.87,2.87
+kyberswap_elastic_avalanche,Kyberswap Elastic (Avalanche),,,5,211,2.67,2.67
+sushiswap-v3-optimism,Sushiswap V3 (Optimism),,,5,212,2.63,2.63
+stellaswap,StellaSwap,,,5,213,2.35,2.35
+curve_fantom,Curve (Fantom),,,5,214,2.23,2.23
+nomiswap,Nomiswap,,,5,215,2.14,2.14
+deversifi,Rhino.fi,2017,British Virgin Islands,5,216,3.9,2.12
+pancakeswap-v2-zksync,PancakeSwap (zkSync),,,5,217,2.05,2.05
+pearl-exchange,PearlFi,,,5,218,1.93,1.93
+apeswap_polygon,ApeSwap (Polygon),2021,,5,219,1.9,1.9
+bakeryswap,Bakeryswap,2020,,5,220,1.73,1.73
+sushiswap_bsc,Sushiswap (BSC),,,5,221,1.62,1.62
+curve_moonbeam,Curve (Moonbeam),,,5,222,1.52,1.52
+ubeswap,Ubeswap,,,5,223,1.55,1.55
+curve_avalanche,Curve (Avalanche),,,5,224,1.67,1.67
+opnx_spot,OPNX,,Seychelles,5,225,1.38,1.38
+cherryswap,CherrySwap,,,5,226,1.32,1.32
+solidlizard,SolidLizard,,,5,227,1.06,1.06
+sushiswap_harmony,Sushiswap (Harmony),,,5,228,1.03,1.03
+tealswap,Tealswap,,,5,229,0.99,0.99
+wigoswap,Wigoswap,2022,,5,230,0.89,0.89
+lykke,Lykke,2015,United Kingdom,5,231,0.87,0.87
+equilibre,Équilibre,,,5,232,0.73,0.73
+wagyuswap,WagyuSwap,,,5,233,0.71,0.71
+arbswap_arbitrum_one,Arbswap,,,5,234,0.71,0.71
+pancakeswap_ethereum,PancakeSwap (Ethereum),2020,,5,235,0.71,0.71
+sushiswap-v3-bsc,Sushiswap V3 (BSC),,,5,236,0.68,0.68
+arbidex,Arbidex,,,5,237,0.65,0.65
+icecreamswap-core,IcecreamSwap (Core),,,5,238,0.6,0.6
+pegasys,Pegasys,,,3,239,0.56,0.56
+yokaiswap,Yokaiswap,,,5,240,0.55,0.55
+claimswap,Claimswap,,,5,241,0.53,0.53
+rcpswap,RCP Swap,2022,,5,242,0.48,0.48
+traderjoe-v2-1-bsc,TraderJoe V2.1 (BSC),,,5,243,0.43,0.43
+saros,Saros Finance,,,3,244,0.35,0.35
+verse,Verse,2022,,5,245,0.34,0.34
+polycat_finance,Polycat Finance,,,5,246,0.3,0.3
+fusionx-v2,FusionX V2,,,5,247,0.27,0.27
+spiritswap,SpiritSwap,2021,,5,248,0.27,0.27
+dystopia,Dystopia,,,5,249,0.25,0.25
