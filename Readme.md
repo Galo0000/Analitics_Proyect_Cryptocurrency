@@ -83,7 +83,7 @@
 
 <p><span style="font-size:16px">Se analizaran las 10 monedas con mas capitalizacion en el mercado ya que es un indicador de confianza en la criptomoneda. En este ranking no se tendran en cuenta aquellas criptomonedas que tengan pariedad con el dolar ya que no son utilizadas en el mercado para generar ganancias considerables.</span></p>
 
-<p style="text-align:center"><img alt="" src="https://github.com/Galo0000/Analitics_Proyect_Cryptocurrency/blob/main/Images/top10crip.jpg" /><img alt="" src="https://github.com/Galo0000/Analitics_Proyect_Cryptocurrency/blob/main/Images/top10crip.jpg" /></p>
+<p style="text-align:center"><img alt="" src="https://github.com/Galo0000/Analitics_Proyect_Cryptocurrency/blob/main/Images/top10crip.jpg" /></p>
 
 <p style="text-align:center">&nbsp;</p>
 
