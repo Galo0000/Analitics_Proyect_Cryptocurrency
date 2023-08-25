@@ -47,15 +47,47 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><span style="font-size:18px">La cantidad de accesos de internet fijo por rango de velocidad</span></p>
+<p style="text-align:center"><span style="font-size:18px">Que monedas?</span></p>
 
 <p style="text-align:center"><span style="font-size:16px">***************</span></p>
 
-<p style="text-align:center"><span style="font-size:16px">Se observa que a nivel nacional la cantidad de accesos a velocidades mayores a 30Mb crece mientras que en el caso de velocidades menores la tendencia es bajista, esta tendencia se corresponde con la evolucion de las tecnologias de conexion a internet ya que con la implementacion de nuevas tecnologias las velocidades crecen y al mismo tiempo la demanda aumenta segun los precios por el servicio disminuyen.</span></p>
+<p style="text-align:center"><span style="font-size:16px">Para responder esta pregunta se analizara la base de datos all_coins con los siguientes datos:</span></p>
 
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><span style="font-size:18px">La cantidad de accesos por tecnologia de internet fijo&nbsp;</span></p>
+<p><span style="font-size:16px">id: Identificacion de la moneda en la api.</span></p>
+
+<p><span style="font-size:16px">symbol: Synbologia utilizada para identificar la moneda.</span></p>
+
+<p><span style="font-size:16px">name: Nombre completo de la moneda.</span></p>
+
+<p><span style="font-size:16px">current_price: Precio actual de la criptomoneda en dolares.</span></p>
+
+<p><span style="font-size:16px">market_cap: Capitalizacion en el mercado representado en dolares.</span></p>
+
+<p><span style="font-size:16px">market_cap_rank: Rankin de capitalizacion en el mercado segun la api.</span></p>
+
+<p><span style="font-size:16px">fully_diluted_valuation: Valor total de mercado te&oacute;rico de una criptomoneda en circulaci&oacute;n.</span></p>
+
+<p><span style="font-size:16px">total_volume: Cantidad total de la criptomoneda que ha sido intercambiada en todos los mercados.</span></p>
+
+<p><span style="font-size:16px">circulating_supply: Cantidad total de esa criptomoneda que actualmente est&aacute; en manos de los inversores y el p&uacute;blico en general.</span></p>
+
+<p><span style="font-size:16px">max_price: Precio maximo que alcanzo historicamente.</span></p>
+
+<p><span style="font-size:16px">min_price: Precio minimo que alcanzo historicamente.</span></p>
+
+<p><span style="font-size:16px">last_updated: Fecha de actualizacion de los datos.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px">Se analizaran las 10 monedas con mas capitalizacion en el mercado ya que es un indicador de confianza en la criptomoneda. En este ranking no se tendran en cuenta aquellas criptomonedas que tengan pariedad con el dolar ya que no son utilizadas en el mercado para generar ganancias considerables.</span></p>
+
+<p style="text-align:center"><img alt="" src="https://github.com/Galo0000/Analitics_Proyect_Cryptocurrency/blob/main/Images/top10crip.jpg" /><img alt="" src="https://github.com/Galo0000/Analitics_Proyect_Cryptocurrency/blob/main/Images/top10crip.jpg" /></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:18px">En que exchange?&nbsp;</span></p>
 
 <p style="text-align:center"><span style="font-size:18px">***************</span></p>
 
