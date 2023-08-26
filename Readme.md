@@ -135,6 +135,29 @@ Esta base de datos como en el caso anterior tambien cuenta con un rankin de exch
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:16px">En este grafico se puede ver la cantidad de exchanges que alberga cada pais, observando una gran cantidad en&nbsp;Seychelles que es un archipi&eacute;lago, frente a africa oriental.</span></p>
+<p><span style="font-size:16px">En este grafico se puede ver la cantidad de exchanges que alberga cada pais, observando una gran cantidad en&nbsp;Seychelles que es un archipi&eacute;lago, frente a africa oriental. Este resultado puede estar condicionado por la libertades economicas y normativas</span></p>
 
 <p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px">Este cuadro agrupa por paises y suma el Volumen de operaciones de bitcoin normalizado de los exchanges.</span><br />
+&nbsp;</p>
+
+<p style="text-align:center"><img alt="" src="https://github.com/Galo0000/Analitics_Proyect_Cryptocurrency/blob/main/Images/sumcap_country.jpg" /></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px">En este apartado de explicaran los kpi utilizados:</span></p>
+
+<p style="text-align:center"><span style="font-size:16px">KPI: es una medida cuantificable que se utiliza para evaluar el rendimiento</span></p>
+
+<p><span style="font-size:16px">Porcentaje de crecimiento de Market_cap por a&ntilde;o: Es el porcentaje de crecimiento que a tenido una criptomoneda con respecto de un promedio anual de sus precios mensuales.</span></p>
+
+<p><span style="font-size:16px">Promedios moviles: Es una t&eacute;cnica estad&iacute;stica utilizada para suavizar una serie de datos, lo que facilita la identificaci&oacute;n de tendencias y patrones a lo largo del tiempo.</span></p>
+
+<p><span style="font-size:16px">Patrones de Volumen de Operaciones: Valida una tendencia teniendo en cuenta el volumen de transacciones.</span></p>
+
+<p><span style="font-size:16px">tasa de crecimiento de la capitalizaci&oacute;n de mercado: Proporciona informaci&oacute;n sobre c&oacute;mo ha cambiado la capitalizaci&oacute;n de mercado de un activo</span></p>
